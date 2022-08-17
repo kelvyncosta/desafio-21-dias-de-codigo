@@ -1,6 +1,10 @@
-# Desafio 21 Dias de Código [Rocketseat](https://twitter.com/rocketseat)
+# Desafio 21 Dias de Código [Rocketseat](https://twitter.com/rocketseat) 🚀
 
-### Desafios
+Este projeto está sendo desenvolvido em React, e cada desafio estará disponível em uma página do mesmo.
+
+Para visualizar os desafios já realizados, acesse [ESTE LINK](https://kelvyn-costa-21-dias-de-codigo.vercel.app/).
+
+### 💥 Desafios
 - [x] Dia 01 - Criar Repo
 - [x] Dia 02 - Hello World
 - [ ] Dia 03 - Botão Animado
