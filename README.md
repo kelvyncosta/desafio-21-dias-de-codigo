@@ -1,24 +1,24 @@
 # Desafio 21 Dias de Código [Rocketseat](https://twitter.com/rocketseat)
 
 ### Desafios
-- [x] Desafio 01 - Criar Repo
-- [ ] Desafio 02 - Hello World
-- [ ] Desafio 03 - Botão Animado
-- [ ] Desafio 04 - Calculadora
-- [ ] Desafio 05 - Página 404
-- [ ] Desafio 06 - Card Glassmorphism
-- [ ] Desafio 07 - Contador
-- [ ] Desafio 08 - TBD
-- [ ] Desafio 09 - TBD
-- [ ] Desafio 10 - TBD
-- [ ] Desafio 11 - TBD
-- [ ] Desafio 12 - TBD
-- [ ] Desafio 13 - TBD
-- [ ] Desafio 14 - TBD
-- [ ] Desafio 15 - TBD
-- [ ] Desafio 16 - TBD
-- [ ] Desafio 17 - TBD
-- [ ] Desafio 18 - TBD
-- [ ] Desafio 19 - TBD
-- [ ] Desafio 20 - TBD
-- [ ] Desafio 21 - TBD
+- [x] Dia 01 - Criar Repo
+- [x] Dia 02 - Hello World
+- [ ] Dia 03 - Botão Animado
+- [ ] Dia 04 - Calculadora
+- [ ] Dia 05 - Página 404
+- [ ] Dia 06 - Card Glassmorphism
+- [ ] Dia 07 - Contador
+- [ ] Dia 08 - TBD
+- [ ] Dia 09 - TBD
+- [ ] Dia 10 - TBD
+- [ ] Dia 11 - TBD
+- [ ] Dia 12 - TBD
+- [ ] Dia 13 - TBD
+- [ ] Dia 14 - TBD
+- [ ] Dia 15 - TBD
+- [ ] Dia 16 - TBD
+- [ ] Dia 17 - TBD
+- [ ] Dia 18 - TBD
+- [ ] Dia 19 - TBD
+- [ ] Dia 20 - TBD
+- [ ] Dia 21 - TBD
