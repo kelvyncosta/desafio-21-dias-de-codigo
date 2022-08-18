@@ -15,3 +15,20 @@ body, input, button {
 a:hover {
   @apply text-gray-400;
 }
+
+.navigator {
+  @apply absolute;
+  @apply bottom-0;
+  @apply z-50;
+  @apply flex;
+  @apply justify-center;
+  @apply items-center;
+  @apply gap-2;
+  @apply bg-purple-800;
+  @apply opacity-20;
+  @apply cursor-pointer;
+  @apply h-16;
+  @apply px-8;
+  @apply hover:opacity-90;
+  @apply text-xl;
+}

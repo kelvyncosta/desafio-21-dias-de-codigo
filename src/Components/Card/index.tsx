@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 interface CardProps {
-  day: string;
+  day: number;
   title: string;
   to?: string;
 }

@@ -5,6 +5,7 @@ import ReactDOM from 'react-dom/client';
 import { App } from 'App';
 import { Day02 } from 'Pages/Day02';
 import { Day03 } from 'Pages/Day03';
+import { Day04 } from 'Pages/Day04';
 import { Home } from 'Pages/Home';
 
 import 'styles/main.css';
@@ -21,6 +22,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
             <Route index element={<Home />} />
             <Route path="02" element={<Day02 />} />
             <Route path="03" element={<Day03 />} />
+            <Route path="04" element={<Day04 />} />
           </Route>
         </Route>
       </Routes>
