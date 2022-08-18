@@ -7,7 +7,7 @@ Para visualizar os desafios já realizados, acesse [ESTE LINK](https://kelvyn-co
 ### 💥 Desafios
 - [x] Dia 01 - Criar Repo
 - [x] Dia 02 - Hello World
-- [ ] Dia 03 - Botão Animado
+- [x] Dia 03 - Botão Animado
 - [ ] Dia 04 - Calculadora
 - [ ] Dia 05 - Página 404
 - [ ] Dia 06 - Card Glassmorphism

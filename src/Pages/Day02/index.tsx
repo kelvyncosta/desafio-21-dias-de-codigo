@@ -1,6 +1,6 @@
 import globe from 'assets/globe.svg';
 
-export function Day01() {
+export function Day02() {
   return (
     <div className="flex justify-center h-full">
       <div className="absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] opacity-10">

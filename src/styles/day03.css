@@ -1,0 +1,51 @@
+@keyframes color_anim {
+  0% {
+    fill: white;
+  }
+  50% {
+    fill: #FBC638;
+  }
+  100% {
+    fill: white;
+  }
+}
+
+#button-01:hover {
+  transition: 0.5s;
+  box-shadow: 10px 10px 0 #FBC638;
+}
+
+#button-01 span:nth-child(2) {
+  transition: 0.5s;
+  margin-right: 0px;
+  width: 20px;
+}
+
+#button-01:hover span:nth-child(2) {
+  transition: 0.5s;
+  margin-right: 35px;
+}
+
+#button-01 path.two {
+  transition: 0.5s;
+  transform: translateX(-30%);
+}
+
+#button-01 path.three {
+  transition: 0.4s;
+  transform: translateX(-60%);
+}
+
+#button-01:hover path.one {
+  animation: color_anim 1s infinite 0.2s;
+}
+
+#button-01:hover path.two {
+  transform: translateX(0);
+  animation: color_anim 1s infinite 0.4s;
+}
+
+#button-01:hover path.three {
+  transform: translateX(0);
+  animation: color_anim 1s infinite 0.6s;
+}

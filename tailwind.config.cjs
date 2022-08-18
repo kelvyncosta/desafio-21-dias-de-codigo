@@ -16,6 +16,10 @@ module.exports = {
       gridTemplateRows: {
         layout: '64px 1fr 64px',
       },
+      boxShadow: {
+        hard: '6px 6px 0 #000',
+        'hard-active': '2px 2px 0 #000',
+      },
     },
   },
   plugins: [],
