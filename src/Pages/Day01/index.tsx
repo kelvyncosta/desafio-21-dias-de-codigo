@@ -1,7 +1,5 @@
 import globe from 'assets/globe.svg';
 
-import 'styles/day01.css';
-
 export function Day01() {
   return (
     <div className="flex justify-center h-full">

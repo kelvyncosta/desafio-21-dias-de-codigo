@@ -7,6 +7,7 @@ import { Day01 } from 'Pages/Day01';
 import { Home } from 'Pages/Home';
 
 import 'styles/main.css';
+import 'styles/day01.css';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
